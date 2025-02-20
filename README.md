@@ -79,15 +79,15 @@ npm start
 
 ## 4️⃣ Any Relevant Notes on Testing
 
-      Ensure backend is running before starting the frontend.
+Ensure backend is running before starting the frontend.
       
-      Use Postman or cURL to test API endpoints.
+Use Postman or cURL to test API endpoints.
       
-      Test with a new user registration, login, and CRUD operations.
+Test with a new user registration, login, and CRUD operations.
       
-      If JWT authentication fails, check if the token is stored in localStorage.
+If JWT authentication fails, check if the token is stored in localStorage.
       
-      If PostgreSQL is not running, restart the database service.
+If PostgreSQL is not running, restart the database service.
 
 ## 5️⃣ Salary Expectations per Month (Mandatory)
 
