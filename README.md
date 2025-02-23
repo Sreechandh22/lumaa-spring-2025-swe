@@ -91,5 +91,5 @@ npm start
 
 ## 5️⃣ Salary Expectations per Month (Mandatory)
 
-      💰 Expected Monthly Salary: [Your Salary Here]
+      💰 Expected Monthly Salary: 22
 
